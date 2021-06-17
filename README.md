@@ -24,11 +24,11 @@ pronouns: they | them
 <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img src="https://i.imgur.com/MuI1Sy8.png" alt="Adobe Photoshop purple icon" width="40" height="40"/></a> 
 <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img src="https://i.imgur.com/Wkqcy0R.png" alt="Adobe Illustrator purple icon" width="40" height="40"/></a> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnidmitri&layout=compact&theme=highcontrast)
 
 
 ### 📍 Você pode me encontrar aqui | You can find me here 
 
 <a href="https://www.linkedin.com/in/agni-dmitri/" target="_blank"><img src="https://i.imgur.com/NNPIGhz.png" width="40px" height="40px" alt="LinkedIn purple icon"></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnidmitri&layout=compact&theme=highcontrast)
 
