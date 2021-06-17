@@ -11,7 +11,7 @@ pronomes: elu/delu
 
 pronouns: they | them
 
-🦇 Hello! I'm **Agni**, I'm twenty one, non binary, passionated about music, gastronomy and visual arts. My professional goal is working in UI development, and be representativeness in the IT area. My mission is to make tecnology acessible for everyone. 
+🦇 Hello! I'm **Agni**, I'm twenty one, non binary, passionate about music, gastronomy and visual arts. My professional goal is working in UI development, and be representativeness in the IT area. My mission is to make tecnology acessible for everyone. 
 
 ### Atualmente estou aprendendo| I'm currently learning
 
