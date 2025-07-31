@@ -17,12 +17,8 @@ pronouns: they | them
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://i.imgur.com/zsfj7OL.png" alt="JavaScript purple icon" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://i.imgur.com/nq5p65Q.png" alt="TypeScript purple icon" width="40" height="40"/></a>
-<a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://i.imgur.com/4jSCrMR.png" alt="Java purple icon" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://i.imgur.com/HJO5HHV.png" alt="Css purple icon" width="40" height="40"/></a> 
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://i.imgur.com/nq5p65Q.png" alt="TypeScript purple icon" width="40" height="40"/></a> 
 <a href="https://www.figma.com/" target="_blank"><img src="https://i.imgur.com/SwFHDGA.png" alt="Figma purple icon" width="40" height="40"/></a>
-<a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img src="https://i.imgur.com/MuI1Sy8.png" alt="Adobe Photoshop purple icon" width="40" height="40"/></a> 
-<a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img src="https://i.imgur.com/Wkqcy0R.png" alt="Adobe Illustrator purple icon" width="40" height="40"/></a> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnidmitri&layout=compact&theme=highcontrast)
 
