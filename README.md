@@ -4,14 +4,14 @@
 
 pronomes: elu/delu
 
-🦇 Olá! Eu sou **Agni**, tenho vinte e dois anos, sou uma pessoa trans não binária, apaixonade por música, gastronomia e artes visuais. Meu objetivo profissional é trabalhar com desenvolvimento de UI e ser representatividade dentro da área de tecnologia, tendo como missão torna-la mais acessível à todes.
+🦇 Olá! Eu sou **Agni**, tenho vinte e cinco anos, sou uma pessoa trans não binária, apaixonade por música, gastronomia e artes visuais. Meu objetivo profissional é trabalhar com desenvolvimento de UI e ser representatividade dentro da área de tecnologia, tendo como missão torna-la mais acessível à todes.
 
 
 ## Welcome to my profile! 
 
 pronouns: they | them
 
-🦇 Hello! I'm **Agni**, I'm twenty two, non binary, passionate about music, gastronomy and visual arts. My professional goal is working in UI development, and be representativeness in the IT area. My mission is to make tecnology acessible for everyone. 
+🦇 Hello! I'm **Agni**, I'm twenty five, non binary, passionate about music, gastronomy and visual arts. My professional goal is working in UI development, and be representativeness in the IT area. My mission is to make tecnology acessible for everyone. 
 
 ### Atualmente estou aprendendo| I'm currently learning
 
